@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Oleksandr, .NET developer from <img src="https://img.icons8.com/color/48/000000/ukraine-circular.png" width="16"/> <b>Ivano-Frankivsk, Ukraine</b>, 🔭currently working at the company <img src="https://avidi.tech/assets/icons/favicon-32x32.png" width="16"/> <b>Avidi Technologies</b>. 
+<p>Welcome to my page! </br> I'm Oleksandr, .NET developer from <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/FA5252/external-Ukraine-Flag-flags-icongeek26-linear-colour-icongeek26.png" width="16"/> <b>Ivano-Frankivsk, Ukraine</b>, 🔭currently working at the company <img src="https://avidi.tech/assets/icons/favicon-32x32.png" width="16"/> <b>Avidi Technologies</b>. 
 <br/>
 👨‍💻 Do you have <b>an interesting or funny project</b>, text me below ;) 
 </p>
