@@ -34,10 +34,10 @@
 <h3>🔭 I’m currently working on:</h2>
 <p>
     <a href="https://github.com/OleksandrRapiy/Microservice.Identity" style="margin:5px" >
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OleksandrRapiy&repo=Microservice.Identity&theme=github_dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OleksandrRapiy&repo=Microservice.Identity&theme=material-palenight" />
     </a>
     <a href="https://github.com/OleksandrRapiy/Microservice.Data" style="margin:5px">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OleksandrRapiy&repo=Microservice.Data&theme=github_dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OleksandrRapiy&repo=Microservice.Data&theme=material-palenight" />
     </a>
 </p>
 
