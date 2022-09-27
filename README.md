@@ -33,11 +33,11 @@
 
 <h3>🔭 I’m currently working on:</h2>
 <p>
-    <a href="https://github.com/OleksandrRapiy/Microservice.Identity" style="margin:10px" >
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OleksandrRapiy&repo=Microservice.Identity&theme=blueberry" />
+    <a href="https://github.com/oleksandr-rapiy/Microservice.Identity" style="margin:10px" >
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleksandr-rapiy&repo=Microservice.Identity&theme=blueberry" />
     </a>
-    <a href="https://github.com/OleksandrRapiy/Microservice.Data" style="margin:10px">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OleksandrRapiy&repo=Microservice.Data&theme=blueberry" />
+    <a href="https://github.com/oleksandr-rapiy/Microservice.Data" style="margin:10px">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleksandr-rapiy&repo=Microservice.Data&theme=blueberry" />
     </a>
 </p>
 
