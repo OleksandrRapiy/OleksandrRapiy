@@ -10,8 +10,10 @@
 <p>
   <img alt=".Net" src="https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-F05032?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img alt="InfluxDB" src="https://img.shields.io/badge/-InfluxDB-430098?style=flat-square&logo=influxdb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -26,11 +28,10 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  
 </p>
 
 <br/>
-
+<!-- 
 <h3>🔭 I’m currently working on:</h2>
 <p>
     <a href="https://github.com/oleksandr-rapiy/Microservice.Identity" style="margin:10px" >
@@ -41,7 +42,7 @@
     </a>
 </p>
 
-<br/>
+<br/> -->
 
 <h3>💬 Where to find me</h3>
 <p>
